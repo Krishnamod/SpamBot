@@ -9,20 +9,20 @@ RIZ_IMG = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/ba87c58f01a6fcb5e
 
 Riz_Button = [
         [
-        Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/DNHxHELL")
+        Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/Vampire_Empire_official")
         ],
         [
-        Button.url("• ᴄᴍᴅs •", "https://telegra.ph/%F0%9D%97%A5%F0%9D%97%9C%F0%9D%97%AD%F0%9D%97%A2%F0%9D%97%98%F0%9D%97%9F-%F0%9D%97%AB-%F0%9D%97%A6%F0%9D%97%A3%F0%9D%97%94%F0%9D%97%A0-11-28-2")
+        Button.url("• ᴄᴍᴅs •", "https://telegra.ph/file/73160485c4b5e9a9a8aab.jpg")
         ]
         ]
                
 RizX_Button = [
         [
-        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/RiZoeLX"),
-        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/DNHxHELL")
+        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/Vampire_Empire_official"),
+        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/Vampire_Empire_official")
         ],
         [
-        Button.url("• ʀᴇᴘᴏ •", "https://github.com/MrRizoel/SpamBot")
+        Button.url("• ʀᴇᴘᴏ •", "https://t.me/Caden_OP")
         ]
         ]
         
